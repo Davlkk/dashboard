@@ -21,15 +21,13 @@ Pré-requisitos: Python instalado.
 
 1. **Instale as dependências:**
    Crie um arquivo `requirements.txt` com `streamlit`, `pandas` e `plotly`, e execute:
+
    ```bash
    pip install -r requirements.txt
 
 2. **Execute**
 
-   ```bash
+```bash
 streamlit run app.py
-
 ou
-
-   ```bash
 python -m streamlit run app.py
