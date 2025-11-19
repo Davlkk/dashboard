@@ -5,7 +5,7 @@ Este projeto é um dashboard interativo de Data Science desenvolvido para analis
 
 ## 🔗 Links Importantes
 
-- **🚀 Acesse o Dashboard Online:** [https://spotifyrock.streamlit.app/](https://spotifyrock.streamlit.app/)
+- **🚀 Acesse o Dashboard Online:** [https://moviecompare.streamlit.app/](https://moviecompare.streamlit.app/)
 - **📂 Dataset Original:** [Kaggle - Popular Movies & TV Shows](https://www.kaggle.com/datasets/jyotmakadiya/popular-movies-and-tv-shows-amazon-prime-netflix)
 
 ## 🎯 Funcionalidades
