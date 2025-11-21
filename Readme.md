@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎬 Dashboard de Streaming: Netflix vs Prime Video
 
 Este projeto é um dashboard interativo de Data Science desenvolvido para analisar e comparar os catálogos de filmes e séries da Netflix e Amazon Prime Video. O objetivo é oferecer insights sobre qualidade (notas da crítica e público) e quantidade de títulos, além de incluir uma ferramenta de recomendação para usuários.
